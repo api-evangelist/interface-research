@@ -6,7 +6,7 @@ description: >-
   across specs and establishing a common vocabulary for understanding the
   API interface space at large.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - API Research
   - Interface Specifications
