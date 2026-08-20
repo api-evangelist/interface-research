@@ -21,6 +21,11 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/interface-
 tags:
   - API Research
   - Interface Specifications
+  - JSON-Schema
+  - Vocabulary
+tags_raw:
+  - API Research
+  - Interface Specifications
   - JSON Schema
   - Vocabulary
 url: >-
