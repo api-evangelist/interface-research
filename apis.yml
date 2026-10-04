@@ -32,13 +32,14 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/interface-
 tags:
   - API Research
   - Interface Specifications
-  - JSON-Schema
+  - JSON Schema
   - Vocabulary
 tags_raw:
   - API Research
   - Interface Specifications
   - JSON Schema
   - Vocabulary
+  - JSON-Schema
 url: >-
   https://raw.githubusercontent.com/api-evangelist/interface-research/refs/heads/main/apis.yml
 created: '2026-03-16'
